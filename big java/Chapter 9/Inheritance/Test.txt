@@ -1,0 +1,12 @@
+1
+Question
+What year did coronavirus start?
+2019
+2
+ChoiceQuestion
+What is the capital city of California?
+Sacramento
+Los Angeles
+San Diego
+San Francisco
+A
